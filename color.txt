@@ -7,3 +7,6 @@
 sugar开发：
 hello
 world
+
+sugar第二次开发：
+hello pythonß
