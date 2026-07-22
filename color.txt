@@ -10,3 +10,6 @@ world
 
 sugar第二次开发：
 hello pythonß
+
+sugar第三次开发：
+hello money
